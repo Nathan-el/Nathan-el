@@ -1,4 +1,7 @@
-### Hi there👋 I am a backend developer and business analyst based in Toronto🍁.
+## Hi there I am Nathan👋
+
+###  I am a backend developer and business analyst based in Toronto🍁.
+***
 ![Github Logo](https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/astronaut-space-surfing-chromebook-wallpaper.jpg)
 <!--
 **Nathan-el/Nathan-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
