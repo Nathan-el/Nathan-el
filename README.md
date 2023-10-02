@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋 I am a backend developer and business analyst based in Toronto🍁.
 
 <!--
 **Nathan-el/Nathan-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
