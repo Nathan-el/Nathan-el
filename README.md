@@ -4,6 +4,9 @@
 
 ![GitHub watchers](https://img.shields.io/github/watchers/nathan-el/Nathanael.github.io)
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Naathan_el?style=social)](https://twitter.com/Naathan_el)
+
+
 
 
 ***
