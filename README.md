@@ -6,12 +6,21 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Naathan_el?style=social)](https://twitter.com/Naathan_el)
 
-
-
-
 ***
 ![Github Logo](https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/astronaut-space-surfing-chromebook-wallpaper.jpg)
+
+## Most Used Technologies
+| Front End | Backend | Business Analysis |
+|----------|----------|----------|
+| 🌐HTML  | 🟢Node.js  | 📊Power BI  |
+| 🎨CSS  | 🐍Python  | 🐍Python  |
+|🚀 JavaScript  |🐬 MySQL  |🏛️ Databases  |
+| ⚛️React  | 🍃 MongoDB |📊 Tableau  |
+
+
 <!--
+
+
 **Nathan-el/Nathan-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
