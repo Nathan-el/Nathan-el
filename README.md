@@ -1,6 +1,6 @@
 ## Hi there I am Nathan👋
 
-###  I am a backend developer and business analyst based in Toronto🍁.
+###  I am a full-stack developer based in Toronto🍁.
 
 ![GitHub watchers](https://img.shields.io/github/watchers/nathan-el/Nathanael.github.io)
 
